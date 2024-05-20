@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HUASCAR\\source\\repos\\CalculadoraConsola\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E2152AB-AAEB-4FDB-8CDE-6946DA8D3085}|Logica\\Logica.csproj|c:\\users\\huascar\\source\\repos\\calculadoraconsola\\logica\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E2152AB-AAEB-4FDB-8CDE-6946DA8D3085}|Logica\\Logica.csproj|solutionrelative:logica\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{123809E0-211E-46AC-89B0-9F79A9E60418}|CalculadoraConsola\\CalculadoraConsola.csproj|c:\\users\\huascar\\source\\repos\\calculadoraconsola\\calculadoraconsola\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{123809E0-211E-46AC-89B0-9F79A9E60418}|CalculadoraConsola\\CalculadoraConsola.csproj|solutionrelative:calculadoraconsola\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\HUASCAR\\source\\repos\\CalculadoraConsola\\Logica\\Class1.cs",
+              "RelativeDocumentMoniker": "Logica\\Class1.cs",
+              "ToolTip": "C:\\Users\\HUASCAR\\source\\repos\\CalculadoraConsola\\Logica\\Class1.cs",
+              "RelativeToolTip": "Logica\\Class1.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T03:51:27.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HUASCAR\\source\\repos\\CalculadoraConsola\\CalculadoraConsola\\Program.cs",
+              "RelativeDocumentMoniker": "CalculadoraConsola\\Program.cs",
+              "ToolTip": "C:\\Users\\HUASCAR\\source\\repos\\CalculadoraConsola\\CalculadoraConsola\\Program.cs",
+              "RelativeToolTip": "CalculadoraConsola\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T03:50:42.62Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
